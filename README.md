@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJS and React**
 
-- 👨‍💻 All of my projects are available at [littlegreenflag.com](littlegreenflag.com)
+- 👨‍💻 All of my projects are available on [my portfolio](billy-king.github.io)
 
 - 📫 How to reach me **billyjack30@gmail.com**
 
